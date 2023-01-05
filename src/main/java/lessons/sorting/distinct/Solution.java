@@ -7,10 +7,11 @@ public class Solution {
 
 
     public int solution(int[] A){
-        Set<Integer> set = new HashSet<>();
+        Set<Integer> sett = new HashSet<>();
         for (int element : A) {
-            set.add(element);
+            sett.add(element);
         }
-        return set.size();
+
+        return sett.size();
     }
 }
