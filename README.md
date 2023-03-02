@@ -32,15 +32,13 @@ Follow the list below:</p>
     <ol>
        <li>assingCars</li>    
     </ol>
-    
+    <li>Sorting</li>
+    <ol>
+       <li>Distinct</li>        
+       <li>MaxProductOfThree</li>
+       <li>Triangle</li>
+    </ol>
 
-
-
-
-
-<li>Java Datatypes</li>
-<li>Java End-of-file</li>
-<li>Java Primality Test</li>
 </ol>
 </body>
 </html>
