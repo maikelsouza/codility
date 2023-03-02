@@ -2,7 +2,7 @@
 
 <body>
     <h1>Exercise preparatory to the 
-    <a href="https://www.hackerrank.com/">codility</a> platform</h1>
+    <a href="https://www.hackerrank.com/" target="_blank">codility</a> platform</h1>
 
 <p>Some introductory exercises with java.
 Follow the list below:</p>
