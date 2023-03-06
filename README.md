@@ -38,7 +38,33 @@ Follow the list below:</p>
        <li>MaxProductOfThree</li>
        <li>Triangle</li>
     </ol>
-
+    <li>Stacks and Queues</li>
+    <ol>
+       <li>Brackets</li>        
+       <li>Fish</li>
+       <li>Nesting</li>
+       <li>StoneWall</li>
+    </ol>
+    <li>Leader</li>
+    <ol>
+       <li>Dominator</li>        
+       <li>EquiLeader</li>       
+    </ol>
+    <li>Maximum slice problem</li>
+    <ol>
+       <li>MaxProfit</li>        
+       <li>MaxSliceSum</li>       
+    </ol>
+    <li>Prime and composite numbers</li>
+    <ol>
+       <li>CountFactors</li>        
+       <li>MinPerimeterRectangle</li>       
+    </ol>
+    <li>Prime and composite numbers</li>
+    <ol>
+       <li>CountFactors</li>        
+       <li>MinPerimeterRectangle</li>       
+    </ol>
 </ol>
 </body>
 </html>
