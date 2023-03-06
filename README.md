@@ -65,6 +65,10 @@ Follow the list below:</p>
        <li>CountFactors</li>        
        <li>MinPerimeterRectangle</li>       
     </ol>
+    <li>Euclidean algorithm</li>
+    <ol>
+       <li>ChocolatesByNumbers</li>               
+    </ol>
 </ol>
 </body>
 </html>
